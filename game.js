@@ -8,7 +8,7 @@ let winSound = new Audio('winharpsichord-39642.mp3')
 let p1sum = 0
 let p2sum = 0
 
-
+// it is function for  palying game
 function play(player, psum, correction, num) {
     let sum
     if (psum == 'p1sum') {
