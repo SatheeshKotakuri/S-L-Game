@@ -4,7 +4,7 @@ let rollingSound = new Audio('rpg-dice-rolling-95182.mp3')
 let winSound = new Audio('winharpsichord-39642.mp3')
 
 
-// User Details
+// User Details for two palyers
 let p1sum = 0
 let p2sum = 0
 
